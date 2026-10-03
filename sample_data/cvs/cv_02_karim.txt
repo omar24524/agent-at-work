@@ -1,0 +1,15 @@
+Karim Hassan - Senior Backend Engineer
+Cairo, Egypt | karim.hassan@example.com
+
+Experience
+Senior Backend Engineer, Pyramid Tech (2018-Present)
+- Led migration to Kubernetes on AWS
+- Python/Django services exposing REST APIs
+- Optimised SQL and PostgreSQL workloads; Docker everywhere
+Developer, Sphinx Labs (2016-2018)
+- Python scripts, Git workflows, MySQL
+
+Education
+B.Sc. Computer Engineering, Ain Shams Univ., 2016
+
+Skills: Python, Django, SQL, PostgreSQL, Docker, Kubernetes, AWS, Git

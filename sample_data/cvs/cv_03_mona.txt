@@ -1,0 +1,13 @@
+Mona Ibrahim - Software Engineer
+Cairo, Egypt | mona.ibrahim@example.com
+
+Experience
+Software Engineer, Cairo Commerce (2020-2025)
+- Flask REST APIs for the order system
+- MySQL reporting queries (SQL)
+- Dockerised deployments, Git branching strategy
+
+Education
+B.Sc. Information Systems, Helwan Univ., 2020
+
+Skills: Python, Flask, MySQL, Docker, Git

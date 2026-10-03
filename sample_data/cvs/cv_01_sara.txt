@@ -1,0 +1,15 @@
+Sara Ahmed - Backend Developer
+Cairo, Egypt | sara.ahmed@example.com
+
+Experience
+Backend Developer, Nile Software (2021-2025)
+- Built REST APIs in Python (FastAPI) serving 2M requests/day
+- Designed PostgreSQL schemas and tuned slow SQL queries
+- Containerised services with Docker; CI/CD with GitHub Actions on AWS
+Junior Developer, Delta Apps (2019-2021)
+- Django web apps and unit testing with pytest
+
+Education
+B.Sc. Computer Science, Cairo Univ., 2019
+
+Skills: Python, FastAPI, Django, PostgreSQL, Docker, AWS, Git

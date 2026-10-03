@@ -1,0 +1,12 @@
+Mahmoud Reda - Python Developer
+Cairo, Egypt | mahmoud.reda@example.com
+
+Experience
+Python Developer, Giza Systems (2023-2025)
+- Django REST APIs, PostgreSQL, Docker
+- Code reviews on Git pull requests
+
+Education
+B.Sc. Computer Science, Alexandria Univ., 2023
+
+Skills: Python, Django, PostgreSQL, Docker, Git

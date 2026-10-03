@@ -1,0 +1,13 @@
+Ali Samir - Java Backend Developer
+Cairo, Egypt | ali.samir@example.com
+
+Experience
+Java Backend Developer, Delta Bank IT (2019-2025)
+- Spring Boot REST APIs, Oracle SQL
+- Docker and Kubernetes deployments
+- Git, Jenkins pipelines
+
+Education
+B.Sc. Computer Science, Mansoura Univ., 2019
+
+Skills: Java, Spring, SQL, Docker, Kubernetes, Git

@@ -1,0 +1,13 @@
+Tarek Nabil - DevOps Engineer
+Cairo, Egypt | tarek.nabil@example.com
+
+Experience
+DevOps Engineer, Cloud Nine (2018-2025)
+- Kubernetes and Docker platform on AWS
+- CI/CD with Jenkins; Linux administration
+- Python automation scripts, Git
+
+Education
+B.Sc. Computer Science, Cairo Univ., 2018
+
+Skills: Docker, Kubernetes, AWS, Linux, Jenkins, Python, Git

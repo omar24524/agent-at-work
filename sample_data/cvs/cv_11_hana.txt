@@ -1,0 +1,12 @@
+Hana Mostafa - Frontend Developer
+Cairo, Egypt | hana.mostafa@example.com
+
+Experience
+Frontend Developer, Pixel House (2020-2025)
+- React and TypeScript single-page apps
+- Git workflow, design systems
+
+Education
+B.Sc. Computer Science, GUC, 2020
+
+Skills: JavaScript, TypeScript, React, Git

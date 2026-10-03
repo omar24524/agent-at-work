@@ -1,0 +1,12 @@
+Youssef Adel - Junior Developer
+Cairo, Egypt | youssef.adel@example.com
+
+Experience
+Junior Developer, Web Studio (2024-2025)
+- Python scripts and SQL reports
+- Git for version control
+
+Education
+B.Sc. Computer Science, Benha Univ., 2024
+
+Skills: Python, SQL, Git

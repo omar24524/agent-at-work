@@ -1,0 +1,13 @@
+Salma Gamal - Data Scientist
+Cairo, Egypt | salma.gamal@example.com
+
+Experience
+Data Scientist, Insight Analytics (2021-2025)
+- Python, pandas, scikit-learn models
+- SQL pipelines, Docker for model serving
+- Git-based experiments
+
+Education
+M.Sc. Data Science, AUC, 2021
+
+Skills: Python, SQL, Pandas, Scikit-learn, Docker, Git

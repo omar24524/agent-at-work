@@ -1,0 +1,12 @@
+Dina Fathy - Junior Backend Developer (fresh graduate)
+Cairo, Egypt | dina.fathy@example.com
+
+Experience
+Backend Intern, Orange Digital (2025-2025)
+- FastAPI REST API for a booking app
+- SQL database design; Docker; Git
+
+Education
+B.Sc. Computer Science, Capital Univ., 2025
+
+Skills: Python, FastAPI, SQL, Docker, Git

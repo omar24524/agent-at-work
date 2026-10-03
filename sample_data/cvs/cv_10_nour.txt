@@ -1,0 +1,11 @@
+Nour El-Din - Data Analyst
+Cairo, Egypt | nour.el-din@example.com
+
+Experience
+Data Analyst, Retail Co (2020-2025)
+- SQL dashboards and Python (pandas) analysis
+
+Education
+B.Com., Cairo Univ., 2020
+
+Skills: Python, SQL, Pandas

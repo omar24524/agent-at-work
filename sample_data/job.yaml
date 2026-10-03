@@ -1,0 +1,14 @@
+title: Backend Developer (Python)
+must_have:
+- Python
+- SQL
+- Docker
+- Git
+- REST API
+nice_to_have:
+- FastAPI
+- Kubernetes
+- AWS
+- CI/CD
+- PostgreSQL
+min_years: 3

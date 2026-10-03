@@ -1,0 +1,6 @@
+llama-cpp-python
+pydantic
+pyyaml
+pandas
+streamlit
+pdfplumber
